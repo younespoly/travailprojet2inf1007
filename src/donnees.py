@@ -4,7 +4,7 @@ import os
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
+# comment
 def charger_et_nettoyer_donnees(chemin_fichier: str) -> pd.DataFrame:
     """Charge le jeu de données des jeux vidéo et nettoie les valeurs manquantes.
 
